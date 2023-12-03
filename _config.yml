@@ -14,9 +14,9 @@ timezone: America/Chicago
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Pelican # the main title
+title: thehunt1s0n # the main title
 
-tagline: A Proving Grounds write up # it will display as the sub-title
+tagline: HTB & PG write ups # it will display as the sub-title
 
 description: This is a write-up for the Pelican box in Proving Grounds # used by seo meta and the atom feed
 
