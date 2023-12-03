@@ -23,7 +23,7 @@ description: This is a write-up for the Pelican box in Proving Grounds # used by
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://thehunt1s0n.github.io"
 
 github:
   username: thehunt1s0n # change to your github username
