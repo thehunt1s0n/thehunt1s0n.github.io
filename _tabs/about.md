@@ -4,5 +4,10 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+## Hi and welcome to my personal blog.
+
+I'm known as thehunt1s0n, I'm a cybersecurity enthusiast and I'm interested in Red Teaming. This blog is about sharing walkthroughs of boxes from Hack The Box, Proving grounds and other platforms :). Enjoy!
+
+---
+
+![HTB](https://raw.githubusercontent.com/thehunt1s0n/media/main/HTB.png)
